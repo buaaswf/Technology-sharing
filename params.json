@@ -1,6 +1,6 @@
 {
   "name": "Songwenfeng.GitHub.com",
   "tagline": "",
-  "body": "# Introduction\r\nThis blog is the technology exchange platform on Machine learning and Deep learning\r\n# Paper Sharing\r\n# Model implementation",
+  "body": "# Introduction\r\nThis blog is the technology exchange platform on Machine learning and Deep learning. I will share my understandings, new improvements and other models reproduce experiment.\r\n# Paper Sharing\r\nNew pulished papers simplyfied flow chart and ideas and my understanding\r\n# Model implementation\r\nReproduce the new tricks and ideas in the papers.\r\n# problem solving\r\nWhen I met the problems, I will record the solutions and the problems. I hope this is useful for you.\r\n\r\n#First Lesson\r\n## SPP net training Process\r\n The paper is 'Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition',http://arxiv.org/pdf/1406.4729v2.pdf\r\nThe main idea is to avoid the crop and wrap in the tradition networks, the author add a spp layer in the CNN. \r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
